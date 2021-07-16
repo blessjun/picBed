@@ -1,0 +1,2 @@
+# picBed
+picGo图床
